@@ -1,0 +1,24 @@
+╔═══════════════════════════════════════════╗
+║ FSE Jean Campin                 V0.7      ║
+║ Sinel V.  2018                            ║
+╠═══════════════════════════════════════════╝
+╠═══════════════════════════════╗
+║Derniere Mise a jour : V. 0.7  ║
+╠═══════════════════════════════╝
+║
+║	- Gestion des Elèves.
+║	- Gestion des Clubs.
+║	- Importation et Exportation de donné.
+║	- Generation de carte de membre personnel.
+║
+╠════════════════════════════════╗
+║A Venir  (Fix et nouveautes) :  ║
+╠════════════════════════════════╝
+║
+║
+║
+╠═════════════════════════════╗
+║Contact :                    ║
+║    Sinel Vincent            ║
+║vsprogramme.contact@gmail.com║
+╚═════════════════════════════╝
