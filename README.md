@@ -9,6 +9,7 @@ Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe q
 ## Librairie
 
 * [Wpf Toolkit](https://github.com/xceedsoftware/wpftoolkit) - Pour les différent outils Xaml
+* [Xceed Toolkit](https://github.com/xceedsoftware/wpftoolkit) - Pour certain outils XAML
 * [iText](https://github.com/itext/itextsharp) - Pour la creation de PDF
 * [Ionic.Zip.Reduced](https://www.nuget.org/packages/DotNetZip.Reduced/) - Pour l'importation/exportation de fichier open document
 
