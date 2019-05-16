@@ -12,6 +12,8 @@ Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe q
 * [Xceed Toolkit](https://github.com/xceedsoftware/wpftoolkit) - Pour certain outils XAML
 * [iText](https://github.com/itext/itextsharp) - Pour la creation de PDF
 * [Ionic.Zip.Reduced](https://www.nuget.org/packages/DotNetZip.Reduced/) - Pour l'importation/exportation de fichier open document
+* [AdornedControl](https://www.codeproject.com/Articles/54472/Defining-WPF-Adorners-in-XAML) - Pour la gestion d'élèments graphiques
+* [AutoUpdater.Net](https://github.com/ravibpatel/AutoUpdater.NET) - Pour la mise à jour automatique
 
 ## Version
 

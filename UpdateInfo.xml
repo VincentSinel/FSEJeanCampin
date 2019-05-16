@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>0.9.0.0</version>
-    <url>https://github.com/VincentSinel/Calcul_Mental/raw/master/File.zip</url>
-    <changelog>https://raw.githubusercontent.com/VincentSinel/Calcul_Mental/master/Note%20Mise%20A%20Jour.txt</changelog>
+    <version>0.8.0.0</version>
+    <url>https://github.com/VincentSinel/FSEJeanCampin/raw/master/File.zip</url>
+    <changelog>https://raw.githubusercontent.com/VincentSinel/FSEJeanCampin/master/Note%20Mise%20A%20Jour.txt</changelog>
     <mandatory>true</mandatory>
 </item>
