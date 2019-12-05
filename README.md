@@ -25,5 +25,5 @@ This project is licensed under License Creative Commons - see the [LICENSE](http
 
 ## Contact
 
-Pour tout bug, remarque, suggestion n'hésitez pas à me contacter :
+Pour tous bug, remarque, suggestion n'hésitez pas à me contacter :
 vsprogramme.contact@gmail.com
