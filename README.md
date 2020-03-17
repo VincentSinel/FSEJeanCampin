@@ -1,10 +1,10 @@
 # FSE Jean Campin <a href="https://github.com/VincentSinel"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/Icone.png" width="233" style="margin:0px 30px" alt="VS Programme"></a>
 
-Logiciel de gestion creer à la demande du FSE du collège Jean Campin. Ce logiciel permet de gerer les élèves adhérents, les club et les sortie mise en place. Il est de plus possible de generer des cartes de membres ainsi que des liste d'élèves spécifique qu sortie et club.
+Logiciel de gestion créé à la demande du FSE du collège Jean Campin. Ce logiciel permet de gérer les élèves adhérents, les clubs et les sorties mises en place. Il est de plus possible de générer des cartes de membres ainsi que des listes d'élèves spécifiques aux sorties et clubs.
 
 ## Installation
 
-Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe quelle clè USB
+Aucune installation nécessaire, le logiciel peut-être lancé depuis n'importe quelle clé USB.
 
 ## Librairie
 
